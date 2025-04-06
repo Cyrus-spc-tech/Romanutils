@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+romanutils/__init__.py
+romanutils/core.py
+romanutils.egg-info/PKG-INFO
+romanutils.egg-info/SOURCES.txt
+romanutils.egg-info/dependency_links.txt
+romanutils.egg-info/top_level.txt
+tests/test_core.py
