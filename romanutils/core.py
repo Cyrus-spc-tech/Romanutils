@@ -27,4 +27,8 @@ def itor(num):
             res += sym
             num -= v
     return res
-def 
+a,b,c,d,e,f,g,h=0,0,0,0,0,0,0,0
+def  intadd(a,d ,c,b,e,f,g,h):
+    return a + b +c +d + e + f + g + h
+def intsub(a,b,c,d,e,f,g,h):
+    return a - b - c - d - e - f - g - h
