@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='romanutils',
-    version='0.1.0',
+    version='0.1.1',
     author='cyrus-spc-tech',
     description='A Python library for Roman numeral manipulation',
     long_description=open('README.md').read(),
